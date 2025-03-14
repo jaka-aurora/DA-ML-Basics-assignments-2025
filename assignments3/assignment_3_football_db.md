@@ -48,11 +48,15 @@ The goal is to understand what problem the analysis is trying to solve and what 
 * Define the target group or groups for the next phase (coaches, players, bettors, clubs, spectators, fans). It is not advisable to choose a target group that is too broad.
 * Consider whether the data needs to be supplemented for future analysis.
 
+Business Understanding can be written in either a Markdown file or a Jupyter Notebook file.
+
+The base file for the assignment can be found at [assignment_3_1_business_understanding.md](./assignment_3_1_business_understanding.md) file.
+
 ## 3.2. Data Understanding (7 points)
 
 This phase of the project examines the data and its quality. Implement the assignment 3.2 as a **Jupyter Notebook** file.
 
-Use the initial implementation [Football database reader](database_structure/football_db_reading_draft.ipynb) 
+Use the draft implementation [Football database reader](database_structure/assignment_3_2_data_understanding_draft.ipynb) 
 as a guide by downloading the dataset from Kaggle and doing your own initial data analysis to understand the dataset being used.
 
 Define the target group or groups for the next phase (coaches, players, bettors, clubs, spectators, fans).
