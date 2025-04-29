@@ -2,9 +2,9 @@
 
 Fill in your information first and remove TODOs also.
 
-* **TODO: YOUR NAME OR NAMES** (The same as your name in JAMK's system) 
-* **TODO: COURSE CODE** (_TTC8020-3010_)
-* **TODO:YOUR EMAIL OR EMAILs at JAMK**
+* **TODO: JAKA COSIC HÄMÄLÄINEN** (The same as your name in JAMK's system) 
+* **TODO: TTC8020-3010** (_TTC8020-3010_)
+* **TODO: aa6111@student.jamk.fi**
 
 Fork the repository for yourself to complete assignments in this course.
 
