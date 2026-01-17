@@ -11,16 +11,10 @@ The course was led by Juha Peltomäki
 - Model evaluation and interpretation  
 - Visualisation of results
 
-### Assignments
-
-* [Assignment 1](assignments_1_data_cleaning/assignment1_players_eda.ipynb)
-* [Assignment 2](assignments_2_regression/assignment_2_titanic.ipynb)
-* [Assignment 3](assignments_3_classification/assignment_3_football_db.md)
-
 ## Repository Structure
-📁 **assignment1_data_cleaning** — Data preprocessing and EDA  
-📁 **assignment2_regression** — Regression modelling and evaluation  
-📁 **assignment3_classification** — Classification model development  
+📁 **[assignment1_data_cleaning](assignments_1_data_cleaning/assignment1_players_eda.ipynb)** — Data preprocessing and EDA  
+📁 **[assignment2_regression](assignments_2_regression/assignment_2_titanic.ipynb)** — Regression modelling and evaluation  
+📁 **[assignment3_classification](assignments_3_classification/assignment_3_football_db.md)** — Classification model development  
 
 > Each assignment folder contains a Jupyter notebook with code, results, and markdown explanations.
 
