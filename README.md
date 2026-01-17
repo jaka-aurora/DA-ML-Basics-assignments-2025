@@ -2,7 +2,6 @@
 
 This repository contains my completed assignments from the **Data Analytics & Machine Learning Basics** (TTC8020-3010) course at JAMK University of Applied Sciences.  
 The work showcases foundational techniques in data preprocessing, exploratory analysis, and machine learning model implementation using Python and Jupyter Notebooks.
-The course was led by Juha Peltomäki
 
 ## Skills Demonstrated
 - Data cleaning and preprocessing  
