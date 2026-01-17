@@ -26,6 +26,6 @@ The course was led by Juha Peltomäki
 
 ## Preview
 
-![Assignment Screenshot](img\screen1.png)
+![Assignment Screenshot](img/screen1.png)
 
-![Assignment Screenshot](img\screen2.png)
+![Assignment Screenshot](img/screen2.png)
