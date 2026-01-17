@@ -13,9 +13,9 @@ The course was led by Juha Peltomäki
 
 ### Assignments
 
-* [Assignment 1](assignments_1_data_cleaning\assignment1_players_eda.ipynb)
-* [Assignment 2](assignments_2_regression\assignment_2_titanic.ipynb)
-* [Assignment 3](assignments_3_classification\assignment_3_football_db.md)
+* [Assignment 1](assignments_1_data_cleaning/assignment1_players_eda.ipynb)
+* [Assignment 2](assignments_2_regression/assignment_2_titanic.ipynb)
+* [Assignment 3](assignments_3_classification/assignment_3_football_db.md)
 
 ## Repository Structure
 📁 **assignment1_data_cleaning** — Data preprocessing and EDA  
